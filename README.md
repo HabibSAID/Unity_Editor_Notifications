@@ -1,42 +1,33 @@
-📌 Unity Editor Notification Tool
+**Unity Editor Notification Tool** is a clean, modern Unity editor extension for real-time alerts, reminders, and workflow awareness 🚀  
+It helps developers stay focused and organized by displaying important messages directly inside the Unity Editor.
 
-A custom Unity editor tool that displays important alerts, reminders, and workflow messages directly inside the editor—helping developers stay organized and maintain a smooth development flow without leaving Unity.
+🔹 **Editor Notification Board (Core Tool)**  
+Create and manage notifications with titles, descriptions, references, and optional sound alerts. Perfect for tracking tasks, reminders, and important development notes 🛎️
 
-🚀 Features
-🛎️ Create custom notifications inside the Unity Editor
-📝 Add titles, descriptions, and notes
-🔊 Attach sound clips that play when a notification pops
-⏰ Set instant or timed notifications
-📎 Add references (GameObjects, assets, scripts)
-🎯 Track tasks, bugs, and workflow reminders
-🛠️ How to Use
-📂 Open the Notification Board
-Go to:
-Tools → Editor Notification Board
-➕ Create a Notification
-Click Add Notification
-Fill in:
-📝 Title
-📄 Message / Description
-📎 Optional references (drag & drop objects or assets)
-🔊 Add Sound (Optional)
-Assign an AudioClip
-Enable Play On Pop to play a sound when the notification appears
-⚡ Trigger the Notification
-Choose:
-🚀 Instant popup
-⏳ Or scheduled (timer/delay-based)
-✅ Manage Notifications
-View all active notifications in the board
-Mark as completed or remove when done
-💡 Use Cases
-📌 Development task reminders
-🐞 Debug alerts
-👥 Team workflow notes
-📊 Editor-based event tracking
+🔹 **Notification System (Alert & Reminder Tool)**  
+Trigger instant or delayed notifications with optional audio feedback. Designed to support smooth workflows and keep you aware of key actions and updates ⏰
+
+✨ **Features:**
+
+* **Titles & descriptions**  
+* **Audio alerts (AudioClip support)** 🔊  
+* **Instant & delayed notifications**  
+* **References (GameObjects, assets, scripts)** 📎  
+* **Clean modular UI**  
+* **Modern layout**  
+* **Lightweight and developer-friendly**  
+
+⚙️ **How to use:**  
+In Unity, go to the **Top Menu Bar → Tools**  
+👉 **Tools → Editor Notification Board** → the **Notification Board Window** appears → create and manage notifications  
+👉 Click **Add Notification** → fill in the details (**title, message, references**)  
+👉 Assign a **sound clip** (optional) and enable **Play On Pop**  
+👉 Trigger instantly or set a **delay** for scheduled notifications
+
+📸 **Preview:**
 
 ### 🧰 Tools Menu
 ![Tools Menu](tools.png)
 
 ### 🛎️ Notification Board
-![Editor Notification Board](EditorNotificationBoard.png)
+![img](EditorNotificationBoard.png)
