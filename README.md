@@ -27,7 +27,7 @@ In Unity, go to the **Top Menu Bar → Tools**
 📸 **Preview:**
 
 ### 🧰 Tools Menu
-![Tools Menu](https://github.com/HabibSAID/Unity_Editor_Notifications/blob/main/tools.png)
+![Tools Menu](https://github.com/HabibSAID/Unity_Editor_Notifications/blob/main/Tools.png)
 
 ### 🛎️ Notification Board
 ![Editor Notification Board](https://github.com/HabibSAID/Unity_Editor_Notifications/blob/main/Editor_Notification_Board.png)
